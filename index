@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Facebook</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    
+    <div class="main">
+        <div class="face">
+            <img src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg">
+            <h4>O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida.</h4>
+        </div>
+        <div>
+            <form class="credencial">
+                <input type="text" placeholder="Email ou Telefone" class="login">
+                <input type="password" placeholder="Senha" class="senha">
+            
+                <input type="submit" value="Entrar" class="entrar">
+            
+                <a href="">Esqueceu a senha?</a>
+                <p class="baixo">_____________________________________</p>
+            
+                 <input type="submit" value="Criar nova conta" class="conta">
+            
+            </form>
+        </div>
+        <p class="footer"><b>Criar uma Página</b> para uma celebridade, uma marca ou uma empresa.</p>
+    </div>
+
+</body>
+</html>
